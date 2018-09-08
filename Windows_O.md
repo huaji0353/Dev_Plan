@@ -64,7 +64,7 @@
 ### 软件安全
 开启UAC
 
-安装沙盒(如是serv2012,Windows docker了解一下)
+安装沙盒(如是Serv2016,Windows docker/Container了解一下)
 
 ### 其他需求
 TODO ...
