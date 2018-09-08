@@ -1,7 +1,9 @@
-listedby @huaji0353
+### listedby @huaji0353
+
 
 ## 一个极客应该有
 修改版操作系统,加强网页浏览器,网络安全套件,软件安全套件,聊天娱乐,开发套件
+
 
 ## 项目总览
 ### 操作系统：
@@ -37,11 +39,14 @@ listedby @huaji0353
 
 * 标准wmi组件控制支持(以便ps脚本快速设置巨量规则)
 
-### 软件安全：sandbox 基于minimalprocess + wine_win32(WinServ2008API 基本兼容)(开源Library os)
+### 软件安全：
+#### sandbox 基于minimalprocess + wine_win32(WinServ2008API 基本兼容)(开源Library os)
 
-### 文本编辑器：notepad++/notepad2魔改
+### 文本编辑器：
+#### notepad++/notepad2魔改
 
-### 聊天娱乐：UWPqq or 基于webqq/smartqq协议(二次开发很恶心,由于国内情况,只能兼容...)
+### 聊天娱乐：
+#### UWPqq or 基于webqq/smartqq协议(二次开发很恶心,由于国内情况,只能兼容...)
 
 
 ## Windows10基本装机指南：（基于@73376329的w10企业精简版本)
@@ -51,10 +56,14 @@ listedby @huaji0353
 
 ### 网络隐私
 关闭收集最近文件
-安装防火墙
+
+安装第三方开源防火墙
+
+开启httpsoverdns
 
 ### 软件安全
 开启UAC
+
 安装沙盒(如是serv2012,Windows docker了解一下)
 
 ### 其他需求
