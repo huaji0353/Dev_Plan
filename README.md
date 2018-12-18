@@ -9,6 +9,12 @@ IDE hexeditor sinffer驱动 防火墙 网络拓扑模拟器 -> ALL base C/C++ an
 
 moe桌宠 -> ....
 
+### 新项目:
+动画番剧数据库 - 在做了
+
+简易x86汇编VPL，可导入winlib
+
+代码绘制MG动画，基于opengl
 
 ### 涉及领域
 CSAPP,CG,CSnetwork,CSalgorithm....
