@@ -7,14 +7,17 @@ IDE hexeditor sinffer驱动 防火墙 网络拓扑模拟器 -> ALL base C/C++ an
 
 软件沙盒 网页浏览器 -> 弃坑
 
-moe桌宠 -> ....
-
-### 新项目:
 动画番剧数据库 - 在做了
 
-简易x86汇编VPL，可导入winlib
+简易x86汇编VPL，可导入winlib - 弃坑 [理由](https://www.zhihu.com/question/265292701/answer/558451357)
 
-代码绘制MG动画，基于opengl
+代码绘制MG动画，基于opengl - 弃坑 AE做得更好
+
+### 新项目
+moe桌宠 （强AI）
+
+基于体素的沙盒模拟 （模拟世界）
+
 
 ### 涉及领域
 CSAPP,CG,CSnetwork,CSalgorithm....
